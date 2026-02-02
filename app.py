@@ -7,7 +7,7 @@ import io
 # Configuração da página
 st.set_page_config(page_title="Processador Palanilha", layout="wide")
 
-st.title("📊 Processador de planilha de lincenças")
+st.title("📊 Processador de planilha de licenças")
 st.markdown("Suba sua planilha original e defina os filtros para gerar o relatório consolidado.")
 
 # --- BARRA LATERAL (INPUTS) ---
